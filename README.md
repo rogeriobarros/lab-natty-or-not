@@ -1,51 +1,54 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Dois amores ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Poema sobre um homem dividido entre duas mulheres
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Crie um poema descrevendo a angustia de um homem dividido entre duas mulheres que ama. Sendo uma delas sua esposa de 20 anos de casamento e outra sua amante de 15 anos de idas e vindas. Ele está angustiado e perdido. Sem saber o que fazer.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+"No limiar do amor, um homem se desfaz,
+Entre duas mulheres, seus mundos se cruzam,
+Uma esposa de duas décadas, um amor que se faz
+Na trama da rotina, onde o tempo é a luz.
+
+Ela é a constância, o abrigo seguro,
+Aquela que conhece os segredos do peito,
+Companheira dos dias, do cotidiano obscuro,
+Seu amor é um mar de águas sem jeito.
+
+Mas há outra, com a paixão em brasa,
+Um amor que surge das sombras e se acende,
+Quinze anos de idas, uma chama que não se apaga,
+Na labareda do desejo, seu coração se entende.
+
+Nos sussurros da noite, ela é o deleite,
+O jogo da paixão, a chama que ilumina,
+Cada encontro é um sonho, uma força que incendeia,
+Mas é um amor de sombras, uma luz que se inclina.
+
+O homem se vê dividido, perdido no meio,
+Entre o passado constante e o desejo infiel,
+Seu coração é um campo de batalha, um leito,
+Onde o amor se torna um campo de guerra cruel.
+
+O peso da decisão o arrasta para o fundo,
+Enquanto ele pondera, com lágrimas nos olhos,
+O que escolher, o que abraçar neste mundo,
+Se o amor verdadeiro não cabe em dois colos.
+
+Ele deseja encontrar a paz na tormenta,
+Mas a angustia o envolve como uma névoa densa,
+O que fazer, como viver, sem perder a essência,
+Se a verdade do amor é uma dúvida imensa?
+
+Assim, o homem se afunda na dúvida profunda,
+Entre o que foi e o que poderia ser,
+E no turbilhão das emoções, sua alma se inunda,
+Sem saber qual caminho deverá escolher."
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Criar algo 'natty' com IA foi uma tarefa desafiadora, mas com bons resultados.
